@@ -1,6 +1,6 @@
 # hfwlm [![Build Status](https://travis-ci.org/nelsond/hfwlm.svg?branch=master)](https://travis-ci.org/nelsond/hfwlm)
 
-Library for controlling HighFinesse wavelength meters.
+Python library for controlling HighFinesse wavelength meters.
 
 ## Install
 
