@@ -1,4 +1,4 @@
-# pySIS [![Build Status](https://travis-ci.org/nelsond/hfwlm.svg?branch=master)](https://travis-ci.org/nelsond/hfwlm)
+# hfwlm [![Build Status](https://travis-ci.org/nelsond/hfwlm.svg?branch=master)](https://travis-ci.org/nelsond/hfwlm)
 
 Library for controlling HighFinesse wavelength meters.
 
